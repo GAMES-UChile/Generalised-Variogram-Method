@@ -1,0 +1,18 @@
+\documentclass[11pt]{article}
+\begin{document}
+
+\begin{table}
+\begin{tabular}{c|ccc|ccc}
+    \hline
+    Run & $\sigma^2$ & $l$ & $\sigma_{noise}^2$ & $\hat{\sigma}^2$ & $\hat{l}$ & $\hat{\sigma}_{noise}^2$ \\
+    \hline
+    1 & 5 & 2 & 1 & 5.20 ± 2.07 & 0.50 ± 0.09 & 0.91 ± 0.68 \\
+    2 & 15 & 2 & 2 & 14.12 ± 13.14 & 2.07 ± 1.09 & 2.04 ± 1.51 \\
+    3 & 3 & 3 & 0.5 & 2.68 ± 3.33 & 3.24 ± 1.65 & 0.97 ± 0.71 \\
+    4 & 0.5 & 5 & 0.5 & 0.45 ± 0.62 & 3.96 ± 2.50 & 0.56 ± 0.30 \\
+    \hline
+\end{tabular}
+\caption{\label{exp1table}Four runs of synthetic data using different hyperparameters for the magnitude, lengthscale, and noise (i.e. $\sigma^2,l,\sigma_{noise}^2$). Each run is executed $n=100$ times to calculate the mean and standard deviation of the estimated values for each hyperparameter (i.e. $\hat{\sigma}^2,\hat{l},\hat{\sigma}_{noise}^2$).}
+\end{table}
+
+\end{document}
