@@ -2,7 +2,7 @@
 
 This repository contains the code used in
 
-- Felipe Tobar, Elsa Cazelles and Taco de Wolff. Computationally-efficient initialisation of GPs: The generalised variogram method. *Transactions of Machine Learning Research*, in press, 2023. [OpenReview](https://openreview.net/forum?id=slsAQHpS7n) & [arXiv][https://arxiv.org/abs/2210.05394]
+- Felipe Tobar, Elsa Cazelles and Taco de Wolff. Computationally-efficient initialisation of GPs: The generalised variogram method. *Transactions of Machine Learning Research*, in press, 2023. [OpenReview](https://openreview.net/forum?id=slsAQHpS7n) & [arXiv](https://arxiv.org/abs/2210.05394)
 
 This repository contains the following files: 
 
